@@ -1,0 +1,4 @@
+
+# Generated Word reports
+*.docx
+~$*.docx
